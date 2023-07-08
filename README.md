@@ -1,5 +1,5 @@
 # telegraf-snipptes
-a shortcut snippets for telegraf framework , to write functions fast
+a shortcut snippets for telegraf framework , to write bot codes functions faster
 
 ## Usage
 
