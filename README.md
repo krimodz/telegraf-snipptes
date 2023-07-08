@@ -1,8 +1,7 @@
 # telegraf-snipptes
 a shortcut snippets for telegraf framework , to write functions fast
 
-
-
+## Usage
 ```bash
 1- in your project go to settings.
 
@@ -14,9 +13,7 @@ a shortcut snippets for telegraf framework , to write functions fast
 
 5- copy my snippets and past it in your snippets file and save. 
 ```
-
-## Usage
-
+## the snippets
 ```snippets
 {
 	/*
