@@ -146,5 +146,5 @@ a shortcut snippets for telegraf framework , to write functions fast
 ```
 
 ## License
-[find me in telegram : @ZedKrimo](https://t.me/zedkrimo)
-[find me in youtube : @ZedKrimo](https://www.youtube.com/@zedkrimo)
+[My telegram : @ZedKrimo](https://t.me/zedkrimo)  | | 
+[My youtube channel : @ZedKrimo](https://www.youtube.com/@zedkrimo)
