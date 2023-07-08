@@ -13,6 +13,9 @@ a shortcut snippets for telegraf framework , to write functions fast
 
 5- copy my snippets and past it in your snippets file and save. 
 ```
+https://youtu.be/86HR3-0lV7c
+
+
 ## the snippets
 ```snippets
 {
